@@ -1,0 +1,479 @@
+{
+  "underHeaderData": [
+    {
+      "id": 1,
+      "dataName": "آرایشی"
+    },
+
+    {
+      "id": 2,
+      "dataName": "پوست"
+    },
+
+    {
+      "id": 3,
+      "dataName": "مو"
+    },
+    {
+      "id": 4,
+      "dataName": "بدن و بهداشت شخصی"
+    },
+    {
+      "id": 5,
+      "dataName": "مردانه"
+    },
+    {
+      "id": 6,
+      "dataName": "مادر و کودک"
+    },
+    {
+      "id": 7,
+      "dataName": "عطر و ادکلن"
+    },
+    {
+      "id": 8,
+      "dataName": "لوازم شخصی برقی"
+    }
+  ],
+  "arayeshiDropDown": [
+    {
+      "id": 1,
+      "arayeshiDropDownName": "آرایش صورت",
+      "arayeshiDropDownitem1": "کرم پودر و موس",
+      "arayeshiDropDownitem2": "کانسیلر",
+      "arayeshiDropDownitem3": "پنکیک",
+      "arayeshiDropDownitem4": "کانتور و برنز کننده",
+      "arayeshiDropDownitem5": "رژ گونه و هایلایتر"
+    },
+    {
+      "id": 2,
+      "arayeshiDropDownName": "آرایش چشم و ابرو",
+      "arayeshiDropDownitem1": "ریمل",
+      "arayeshiDropDownitem2": "خط چشم و مداد چشم",
+      "arayeshiDropDownitem3": "سایه چشم",
+      "arayeshiDropDownitem4": "آرایش ابرو",
+      "arayeshiDropDownitem5": "تقویت کننده مژه و ابرو"
+    },
+    {
+      "id": 3,
+      "arayeshiDropDownName": "آرایش لب",
+      "arayeshiDropDownitem1": "رژ لب جامد",
+      "arayeshiDropDownitem2": "رژ لب مایع و تینت",
+      "arayeshiDropDownitem3": "مداد لب",
+      "arayeshiDropDownitem4": "بالم لب",
+      "arayeshiDropDownitem5": "پرایمر لب",
+      "arayeshiDropDownitem6": "اسکراب لب"
+    },
+    {
+      "id": 4,
+      "arayeshiDropDownName": "آرایش ناخن",
+      "arayeshiDropDownitem1": "لاک ناخن",
+      "arayeshiDropDownitem2": "لاک پاک کن",
+      "arayeshiDropDownitem3": "ناخن مصنوعی و چسب ناخن",
+      "arayeshiDropDownitem4": "ناخن گیر و سوهان ناخن",
+      "arayeshiDropDownitem5": "ابزار مانیکور و پدیکور",
+      "arayeshiDropDownitem6": "برچسب و طراحی ناخن"
+    },
+    {
+      "id": 5,
+      "arayeshiDropDownName": "محصولات جانبی",
+      "arayeshiDropDownitem1": "براش آرایشی",
+      "arayeshiDropDownitem2": "اسفنج آرایشی",
+      "arayeshiDropDownitem3": "کیف لوازم آرایش",
+      "arayeshiDropDownitem4": "موچین و قیچی و تیغ ابرو",
+      "arayeshiDropDownitem5": "آینه",
+      "arayeshiDropDownitem6": "پنبه و پد و گوش پاک کن",
+      "arayeshiDropDownitem7": "تراش"
+    },
+    {
+      "id": 6,
+      "arayeshiDropDownName": "ابزار و محصولات گریم",
+      "arayeshiDropDownitem1": "همه ابزار و محصولات گریم"
+    }
+  ],
+  "postDropDown": [
+    {
+      "id": 1,
+      "postDropDownName": "محصولات پوست",
+      "postDropDownitem1": "شوینده و پاک کننده صورت",
+      "postDropDownitem2": "میسلار واتر",
+      "postDropDownitem3": "تونر",
+      "postDropDownitem4": "مرطوب کننده و آبرسان",
+      "postDropDownitem5": "ضد آفتاب",
+      "postDropDownitem6": "ماسک و اسکراب",
+      "postDropDownitem7": "مراقبت دور چشم",
+      "postDropDownitem8": "سرم و روغن پوستی",
+      "postDropDownitem9": "بالم لب",
+      "postDropDownitem10": "دستمال مرطوب",
+      "postDropDownitem11": "اسپری صورت",
+      "postDropDownitem12": "لایه بردار"
+    },
+    {
+      "id": 2,
+      "postDropDownName": "نیاز پوست",
+      "postDropDownitem1": "پوست خشک و خیلی خشک",
+      "postDropDownitem2": "پوست چرب و مختلط",
+      "postDropDownitem3": "پوست حساس",
+      "postDropDownitem4": "روشن کننده و ضد لک",
+      "postDropDownitem5": "درمان آکنه",
+      "postDropDownitem6": "ضد چروک و لیفتینگ",
+      "postDropDownitem7": "مرطوب کننده و آبرسان"
+    },
+    {
+      "id": 3,
+      "postDropDownName": "محصولات جانبی",
+      "postDropDownitem1": "پنبه و پد و گوش پاک کن ",
+      "postDropDownitem2": "دستمال مرطوب",
+      "postDropDownitem3": "جید رولر و گواشا وگوی یخی",
+      "postDropDownitem4": "هد بند حوله ای ",
+      "postDropDownitem5": "پیلینگ و میکرودرم",
+      "postDropDownitem6": "فیس براش",
+      "postDropDownitem7": "چسب بینی",
+      "postDropDownitem8": "دستگاه بخور",
+      "postDropDownitem9": "کیف"
+    },
+    {
+      "id": 4,
+      "postDropDownName": "شوینده و پاک کننده",
+      "postDropDownitem1": "شوینده صورت",
+      "postDropDownitem2": "تونر",
+      "postDropDownitem3": "میسلار واتر",
+      "postDropDownitem4": "پاک کننده آرایش چشم",
+      "postDropDownitem5": "شیر پاک کن",
+      "postDropDownitem6": "ماسک و اسکراب",
+      "postDropDownitem7": "صابون و پن"
+    },
+    {
+      "id": 5,
+      "postDropDownName": "ضد آفتاب و برنز کننده",
+      "postDropDownitem1": "روغن آفتاب",
+      "postDropDownitem2": "اتو برنز",
+      "postDropDownitem3": "افترسان",
+      "postDropDownitem4": "ضد آفتاب صورت و بدن"
+    }
+  ],
+  "mooDropDown": [
+    {
+      "id": 1,
+      "mooDropDownName": "مراقبت مو",
+      "mooDropDownitem1": "شوینده و پاک کننده صورت",
+      "mooDropDownitem2": "میسلار واتر",
+      "mooDropDownitem3": "تونر",
+      "mooDropDownitem4": "مرطوب کننده و آبرسان",
+      "mooDropDownitem5": "ضد آفتاب",
+      "mooDropDownitem6": "ماسک و اسکراب",
+      "mooDropDownitem7": "مراقبت دور چشم",
+      "mooDropDownitem8": "سرم و روغن پوستی",
+      "mooDropDownitem9": "بالم لب",
+      "mooDropDownitem10": "دستمال مرطوب",
+      "mooDropDownitem11": "اسپری صورت",
+      "mooDropDownitem12": "لایه بردار"
+    },
+    {
+      "id": 2,
+      "mooDropDownName": "رنگ مو",
+      "mooDropDownitem1": "کیت رنگ مو",
+      "mooDropDownitem2": "رنگ موی تیوبی",
+      "mooDropDownitem3": "شامپو رنگ و رنگساژ",
+      "mooDropDownitem4": "استیک و اسپری رنگ ریشه مو",
+      "mooDropDownitem5": "اکسیدان",
+      "mooDropDownitem6": "دکلره",
+      "mooDropDownitem7": "محصولات جانبی رنگ مو"
+    },
+    {
+      "id": 3,
+      "mooDropDownName": "نیاز مو",
+      "mooDropDownitem1": "موهای چرب",
+      "mooDropDownitem2": "مو خشک, وز و آسیب دیده",
+      "mooDropDownitem3": "موهای رنگ شده",
+      "mooDropDownitem4": "ضد ریزش و محرک رشد مو",
+      "mooDropDownitem5": "تقویت تغذیه کننده و آبرسان",
+      "mooDropDownitem6": "موهای کراتین شده",
+      "mooDropDownitem7": "موهای دارای شوره",
+      "mooDropDownitem8": "موهای نازک و ضعیف",
+      "mooDropDownitem9": "موهای فر و ضخیم"
+    }
+  ],
+
+  "sliderImages": [
+    {
+      "id": 1,
+      "imageUrl": "https://ruban.com/storage/misc/masks-norouz2-dt.jpg",
+      "sliderHeader": "لوسیون بدن"
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://ruban.com/storage/misc/sunscreen-norouz2-dt.jpg",
+      "sliderHeader": "انواع ضد آفتاب"
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://ruban.com/storage/misc/eyeMu-norouz2-dt.jpg",
+      "sliderHeader": "آرایش چشم"
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://ruban.com/storage/misc/hair-norouz2-dt.jpg",
+      "sliderHeader": "آرایش مو"
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://ruban.com/storage/misc/body-norouz2-dt.jpg",
+      "sliderHeader": "محصولات مل کازمتیک"
+    }
+  ],
+  "cartsHeader": [
+    {
+      "id": 1,
+      "cartsHeaderTitle": "درمان آکنه"
+    },
+    {
+      "id": 2,
+      "cartsHeaderTitle": "ماسک و اسکراب"
+    },
+    {
+      "id": 3,
+      "cartsHeaderTitle": "پرفروش ترین ها"
+    }
+  ],
+
+  "products": [
+    {
+      "id": 1,
+      "productName": "کرم پودر",
+      "image": "https://md-statics.modiage.com/pr:sharp/rs:fill:100:0:0/plain/s3://modiage/categories/0057796_%DA%A9%D8%B1%D9%85%20%D9%BE%D9%88%D8%AF%D8%B1-min.jpeg"
+    },
+    {
+      "id": 2,
+      "productName": "کانسیلر",
+      "image": "https://md-statics.modiage.com/pr:sharp/rs:fill:100:0:0/plain/s3://modiage/categories/0057798_%DA%A9%D8%A7%D9%86%D8%B3%DB%8C%D9%84%D8%B1-min.jpeg"
+    },
+    {
+      "id": 3,
+      "productName": "رژ گونه",
+      "image": "https://md-statics.modiage.com/pr:sharp/rs:fill:100:0:0/plain/s3://modiage/categories/0057800_%D8%B1%DA%98%DA%AF%D9%88%D9%86%D9%87-min.jpeg"
+    },
+    {
+      "id": 4,
+      "productName": "پنکیک(پودر فشرده)",
+      "image": "https://md-statics.modiage.com/pr:sharp/rs:fill:100:0:0/plain/s3://modiage/categories/0057802_%D9%BE%D9%86%DA%A9%DB%8C%DA%A9-min.jpeg"
+    },
+    {
+      "id": 5,
+      "productName": " کانتور و هایلایت",
+      "image": "https://md-statics.modiage.com/pr:sharp/rs:fill:100:0:0/plain/s3://modiage/categories/0057804_%DA%A9%D8%A7%D9%86%D8%AA%D9%88%D8%B1%20%D9%88%20%D9%87%D8%A7%DB%8C%D9%84%D8%A7%DB%8C%D8%AA-min.jpeg"
+    },
+    {
+      "id": 6,
+      "productName": "برنز کننده",
+      "image": "https://md-statics.modiage.com/pr:sharp/rs:fill:100:0:0/plain/s3://modiage/categories/0057806_%D8%A8%D8%B1%D9%86%D8%B2%D9%87%20%DA%A9%D9%86%D9%86%D8%AF%D9%87-min.jpeg"
+    },
+    {
+      "id": 7,
+      "productName": " فیکساتور آرایش",
+      "image": "https://md-statics.modiage.com/pr:sharp/rs:fill:100:0:0/plain/s3://modiage/categories/0057808_%D9%81%DB%8C%DA%A9%D8%B3%D8%A7%D8%AA%D9%88%D8%B1%20%D8%A2%D8%B1%D8%A7%DB%8C%D8%B4-min.jpeg"
+    },
+    {
+      "id": 8,
+      "productName": " پاک کننده آرایش",
+      "image": "https://md-statics.modiage.com/pr:sharp/rs:fill:100:0:0/plain/s3://modiage/categories/0057810_%D9%BE%D8%A7%DA%A9%20%DA%A9%D9%86%D9%86%D8%AF%D9%87%20%D8%A2%D8%B1%D8%A7%DB%8C%D8%B4-min.jpeg"
+    }
+  ],
+  "carts": [
+    {
+      "id": 1,
+      "cartImage": "https://ruban.com/storage/products/thumbnails/Xh5SgRwR5EdHw9q6Y8aGfp1KnUIPiGhfFI1GOaCg.jpg",
+      "cartDiscription": "ماسک صورت ورقه ای دیگنیتی حاوی عصاره درخت چای وزن 30 گرم",
+      "cartPriceTag": 21500
+    },
+    {
+      "id": 2,
+      "cartImage": "https://ruban.com/storage/products/thumbnails/71NakKccRAToOKt4D1w2NXZovd4TEmJA4M4K8rz3.jpeg",
+      "cartDiscription": "ژل ضد آکنه صورت ژنوبایوتیک مدل Sebugen 1 وزن 30 گرم",
+      "cartPriceTag": 211500
+    },
+    {
+      "id": 3,
+      "cartImage": "https://ruban.com/storage/products/thumbnails/hl84TFOnVWrrKCnENQ4eYpCPOSiv5BuaD712PSrG.png",
+      "cartDiscription": "ماسک صورت وارمی حاوی عصاره لیمو و نعناع مخصوص پوست های چرب و دارای جوش حجم 150 میل",
+      "cartPriceTag": 219300
+    },
+    {
+      "id": 4,
+      "cartImage": "https://ruban.com/storage/products/thumbnails/6260156000932.jpg",
+      "cartDiscription": "ژل ضد آکنه پرایم مدل Acnex حجم 30 میل",
+      "cartPriceTag": 303300
+    },
+    {
+      "id": 5,
+      "cartImage": "https://ruban.com/storage/products/thumbnails/9iEpsr9h1NaJiFvTvhuGVLuwWX2VfWjsOVCtrfLY.jpg",
+      "cartDiscription": "محلول ضد جوش و آکنه فاربن حجم 50 میل",
+      "cartPriceTag":142500
+    },
+    {
+      "id": 6,
+      "cartImage": "https://ruban.com/storage/products/thumbnails/Xh5SgRwR5EdHw9q6Y8aGfp1KnUIPiGhfFI1GOaCg.jpg",
+      "cartDiscription": "ماسک صورت وارمی حاوی عصاره لیمو و نعناع مخصوص پوست های چرب و دارای جوش حجم 150 میل",
+      "cartPriceTag": 219300
+    }
+  ],
+  "brands": [
+    {
+      "id": 1,
+      "brandName": "لافارر و مورینگا امو ",
+      "brandImage": "https://ruban.com/storage/misc/lafarrerr-moringa-norouz2-cat.jpg"
+    },
+    {
+      "id": 2,
+      "brandName": "دیپ سنس و سی گل",
+      "brandImage": "https://ruban.com/storage/misc/seagull-deepsense-norouz2-cat.jpg"
+    },
+    {
+      "id": 3,
+      "brandName": " پبپا آف لاندن",
+      "brandImage": "https://ruban.com/storage/misc/pippa-norouz2-cat.jpg"
+    },
+    {
+      "id": 4,
+      "brandName": "فاربن",
+      "brandImage": "https://ruban.com/storage/misc/farben-norouz2-cat.jpg"
+    },
+    {
+      "id": 5,
+      "brandName": "مل کازمتیک اند اسکین",
+      "brandImage": "https://ruban.com/storage/misc/mel-norouz2-cat.jpg"
+    },
+    {
+      "id": 6,
+      "brandName": "سریتا و ژنوبایوتیک",
+      "brandImage": "https://ruban.com/storage/misc/cerita-geno-norouz2-cat.jpg"
+    }
+  ],
+  "brandDiscription": [
+    {
+      "id": 1,
+      "brandName": "دئودورانت و خوشبو کننده",
+      "brandDiscription": "برای مشاهده محصولات ضد تعریق روی این لینک کلیک کنید",
+      "brandImage": "https://ruban.com/storage/misc/deo-card.jpg"
+    },
+    {
+      "id": 2,
+      "brandName": "آرایش لب",
+      "brandDiscription": "هر محصولی که برای آرایش لب  نیاز دارید اینجا میتوانید پیدا کنید",
+      "brandImage": "https://ruban.com/storage/misc/lipmu-sp-card.jpg"
+    },
+    {
+      "id": 3,
+      "brandName": "رنگ مو",
+      "brandDiscription": "با این محصول میتونی خودت توی خونه موهاتو رنگ کنی",
+      "brandImage": "https://ruban.com/storage/misc/hairdye-sp-card.jpg"
+    }
+  ],
+  "brandAdvertisement": [
+    {
+      "id": 1,
+      "brandImage": "https://ruban.com/storage/misc/varmii.png"
+    },
+    {
+      "id": 2,
+      "brandImage": "https://ruban.com/storage/misc/geno-logo.png"
+    },
+    {
+      "id": 3,
+      "brandImage": "https://ruban.com/storage/misc/neutrogenalogo.png"
+    },
+    {
+      "id": 4,
+      "brandImage": "https://ruban.com/storage/misc/mel-logo.png"
+    },
+    {
+      "id": 5,
+      "brandImage": "https://ruban.com/storage/misc/prime-logo.png"
+    },
+    {
+      "id": 6,
+      "brandImage": "https://ruban.com/storage/misc/seagull-logo.png"
+    },
+    {
+      "id": 7,
+      "brandImage": "https://ruban.com/storage/misc/loreal-logo.png"
+    },
+    {
+      "id": 8,
+      "brandImage": "https://ruban.com/storage/misc/panteneee.png"
+    },
+    {
+      "id": 9,
+      "brandImage": "https://ruban.com/storage/misc/essence-logo.png"
+    },
+    {
+      "id": 10,
+      "brandImage": "https://ruban.com/storage/misc/garnier-logo.png"
+    },
+    {
+      "id": 11,
+      "brandImage": "https://ruban.com/storage/misc/vitalayer-logo.png"
+    },
+    {
+      "id": 12,
+      "brandImage": "https://ruban.com/storage/misc/lafarrerrlogo.png"
+    }
+  ],
+  "footerAdvertisement": [
+    {
+      "id": 1,
+      "advImage": "https://ruban.com/modules/fronttemplate/img/footer/rubanbazar.jpg",
+      "advName": "بازار",
+      "advDiscription": "تخفیفات شگفت اگیز روی محصولات منتخب"
+    },
+    {
+      "id": 2,
+      "advName": "اپلیکیشن جوی",
+      "advDiscription": "جوی شبکه اجتماعیه که از روتین زیبایی و تجربیاتمون میگیم",
+      "advImage": "https://ruban.com/modules/fronttemplate/img/footer/joy-3.jpg"
+    },
+    {
+      "id": 3,
+      "advName": "برند skin & MEL cosmetic",
+      "advDiscription": "فرم درخواست فروش محصولات برند ملینا تاج در فروشگاه های آفلاین",
+      "advImage": "https://ruban.com/modules/fronttemplate/img/footer/mel3.jpg"
+    },
+    {
+      "id": 4,
+      "advName": "اینستاگرام ",
+      "advDiscription": "آگاهی از آخرین خبرها و تخفیف ها در پیج اینستاگرام روبان",
+      "advImage": "https://ruban.com/modules/fronttemplate/img/footer/insta5.jpg"
+    }
+  ],
+  "footerDetails": [
+    {
+      "id": 1,
+      "footerDetailsName": "آشنایی با ما ",
+      "footerDetailsitem1": "درباره ما",
+      "footerDetailsitem2": " تماس با ما",
+      "footerDetailsitem3": "سوالات متداول",
+      "footerDetailsitem4": "مجله ما"
+    },
+    {
+      "id": 2,
+      "footerDetailsName": "خدمات مشتریان ",
+      "footerDetailsitem1": "ورود -ثبت نام",
+      "footerDetailsitem2": " راهنمای خرید",
+      "footerDetailsitem3": "ارسال به شهرستان"
+    },
+    {
+      "id": 3,
+      "footerDetailsName": "حقوق و قوانین ",
+      "footerDetailsitem1": "قوانین و شرایط استفاده",
+      "footerDetailsitem2": " حفظ حریم خصوصی",
+      "footerDetailsitem3": "تعویض یا ارجاع کالا"
+    },
+    {
+      "id": 4,
+      "footerDetailsName": "همکاری با ما  ",
+      "footerDetailsitem1": "درخواست همکاری",
+      "footerDetailsitem2": " فرصت هاس شغلی",
+      "footerDetailsitem3": "درخواست کارت هدیه"
+    }
+  ]
+}

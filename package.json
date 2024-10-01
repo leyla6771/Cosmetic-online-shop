@@ -1,0 +1,24 @@
+{
+  "name": "shoppingsite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css --watch",
+    "server": "json-server --watch db.json --port 3004"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "jquery": "^3.7.1",
+    "json-server": "^1.0.0-beta.1",
+    "live-server": "^1.2.2",
+    "swiper": "^11.1.9"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.7"
+  },
+  "description": ""
+}
