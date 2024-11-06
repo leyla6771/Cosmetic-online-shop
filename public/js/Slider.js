@@ -86,10 +86,10 @@ const getSliderData = async () => {
   });
 };
 
-// let refreshSlider = setInterval(() => {
-//   let next = document.getElementById("next");
-//   next.click();
-// }, 5000);
+let refreshSlider = setInterval(() => {
+  let next = document.getElementById("next");
+  next.click();
+}, 5000);
 
 function reloadSlider(items, dots, prev, next) {
   let checkLeft = items[active].offsetLeft;

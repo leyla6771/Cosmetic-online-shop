@@ -11,8 +11,8 @@ module.exports = {
         },
       },
       fontFamily: {
-        iransans: ["IRANSansX-Medium"],
-        irannumber: ["IRANSansXFaNum"],
+        "iransans": ["IRANSansX-Medium"],
+        "irannumber": ["IRANSansXFaNum"],
         "iransans-Black": ["IRANSansX-Black"],
         "iransans-Bold": ["IRANSansX-Bold"],
         "iransans-DemiBold": ["IRANSansX-DemiBold"],
@@ -21,6 +21,12 @@ module.exports = {
         "iransans-Regular": ["IRANSansX-Regular"],
         "iransans-Thin": ["IRANSansX-Thin"],
         "iransans-UltraLight": ["IRANSansX-UltraLight"],
+      },
+      screens: {
+        'sm': '431px',
+        'md': '640px', 
+        'lg': '1024px',
+        'xl': '1280px',
       },
     },
   },
